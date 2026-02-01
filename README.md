@@ -30,6 +30,8 @@ sudo alsactl store
 **Start EmulationStation**:
 sudo systemctl start emulationstation.service
 
+Recommended OS: https://github.com/lcdyk0517/arkos4clone
+
 Purple R36S Game Console:
 ```
 🔋 designCapacity in your DTB: 2808
@@ -38,4 +40,12 @@ Purple R36S Game Console:
 • Clone R36s → Clone Type 1 Without Amplifier
 • Clone R36s → Clone Type 1 Without Amplifier And Invert Right Joystick
 • Other → GameConsole HG36(HG3506)
+```
+
+Red R36S Game Console: 
+```
+Can be used for testing but full compatibility is not guaranteed:
+🔋 designCapacity in your DTB: 3124
+🔋 designQmax in your DTB: 3436
+• Clone R36s → Clone Type 2 Without Amplifier
 ```
