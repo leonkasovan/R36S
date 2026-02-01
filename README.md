@@ -29,3 +29,13 @@ sudo alsactl store
 
 **Start EmulationStation**:
 sudo systemctl start emulationstation.service
+
+Purple R36S Game Console:
+```
+🔋 designCapacity in your DTB: 2808
+🔋 designQmax in your DTB: 3089
+• Kinhank → K36 Origin Panel
+• Clone R36s → Clone Type 1 Without Amplifier
+• Clone R36s → Clone Type 1 Without Amplifier And Invert Right Joystick
+• Other → GameConsole HG36(HG3506)
+```
